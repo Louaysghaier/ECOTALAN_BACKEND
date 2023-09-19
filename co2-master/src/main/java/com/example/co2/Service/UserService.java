@@ -22,7 +22,8 @@ import java.beans.Encoder;
 import java.util.*;
 
 @Service
-public class UserService implements UserServiceImpl {
+public class
+UserService implements UserServiceImpl {
 
     @Autowired
     UserRepository userRepository;
